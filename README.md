@@ -1,2 +1,3 @@
 # Python-Machine-Learning
-Result of my test
+
+Result of my test and trial
